@@ -1,0 +1,11 @@
+{
+    "emmet.useInlineCompletions": true,
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on"
+    },
+    "editor.suggest.snippetsPreventQuickSuggestions": true,
+    "debug.console.acceptSuggestionOnEnter": "on",
+    "terminal.integrated.suggest.runOnEnter": "always"
+}
