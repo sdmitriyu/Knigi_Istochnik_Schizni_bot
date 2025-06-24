@@ -59,8 +59,9 @@ admins_menu_kb = ReplyKeyboardMarkup(
 
 greetings_kb = InlineKeyboardMarkup(
     inline_keyboard=[
-        [InlineKeyboardButton(text="📚 Перейти к галерее книг", callback_data="books_gallery"), 
-         InlineKeyboardButton(text="📞 Связаться с поставщиком", callback_data="link_in_supplier")],
+        [InlineKeyboardButton(text="📚 Перейти к галерее книг", callback_data="books_gallery")],
+        [InlineKeyboardButton(text="❓ Задать вопрос", callback_data="ask_question_start")],
+        [InlineKeyboardButton(text="🛠️ Техподдержка", callback_data="contact_tech_support")]
     ]
 )
 

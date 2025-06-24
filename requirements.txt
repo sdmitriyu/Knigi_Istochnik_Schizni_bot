@@ -1,0 +1,5 @@
+aiogram>=3.0.0
+peewee>=3.16.0
+python-dotenv>=1.0.0
+logging>=0.5.1.2
+typing-extensions>=4.5.0 

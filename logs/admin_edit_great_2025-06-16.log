@@ -1,0 +1,20 @@
+2025-06-16 18:00:04,088 - admin_edit_great - DEBUG - is_admin_filter: Проверка пользователя 5069224643. Результат: True - Данные: {'user_id': 5069224643, 'is_admin': True}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 18:00:04,090 - admin_edit_great - DEBUG - Вход в show_greeting_text_for_edit - Данные: {'user_id': 5069224643}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 18:00:14,665 - admin_edit_great - DEBUG - is_admin_filter: Проверка пользователя 5069224643. Результат: True - Данные: {'user_id': 5069224643, 'is_admin': True}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 18:00:18,437 - admin_edit_great - DEBUG - is_admin_filter: Проверка пользователя 5069224643. Результат: True - Данные: {'user_id': 5069224643, 'is_admin': True}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 18:00:20,968 - admin_edit_great - DEBUG - is_admin_filter: Проверка пользователя 5069224643. Результат: True - Данные: {'user_id': 5069224643, 'is_admin': True}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None

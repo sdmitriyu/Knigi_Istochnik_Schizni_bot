@@ -1,0 +1,104 @@
+2025-06-16 15:52:03,441 - admin_state_book_handlers - DEBUG - Вход в обработчик start - Данные: {'user_id': 5069224643}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 15:52:09,793 - admin_state_book_handlers - DEBUG - Вход в обработчик manage_books - Данные: {'user_id': 5069224643}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 15:59:56,097 - admin_state_book_handlers - DEBUG - Вход в обработчик manage_books - Данные: {'user_id': 5069224643}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 16:31:23,702 - admin_state_book_handlers - DEBUG - Вход в обработчик manage_books - Данные: {'user_id': 5069224643}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 16:34:45,016 - admin_state_book_handlers - DEBUG - Вход в обработчик manage_books - Данные: {'user_id': 5069224643}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:43:47,913 - admin_state_book_handlers - DEBUG - is_admin_filter: Проверка пользователя 5069224643. Результат: True - Данные: {'user_id': 5069224643, 'is_admin': True}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:43:50,345 - admin_state_book_handlers - DEBUG - is_admin_filter: Проверка пользователя 5069224643. Результат: True - Данные: {'user_id': 5069224643, 'is_admin': True}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:43:52,658 - admin_state_book_handlers - DEBUG - is_admin_filter: Проверка пользователя 5069224643. Результат: True - Данные: {'user_id': 5069224643, 'is_admin': True}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:43:56,500 - admin_state_book_handlers - DEBUG - is_admin_filter: Проверка пользователя 5069224643. Результат: True - Данные: {'user_id': 5069224643, 'is_admin': True}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:43:59,095 - admin_state_book_handlers - DEBUG - is_admin_filter: Проверка пользователя 5069224643. Результат: True - Данные: {'user_id': 5069224643, 'is_admin': True}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:44:00,049 - admin_state_book_handlers - DEBUG - is_admin_filter: Проверка пользователя 5069224643. Результат: True - Данные: {'user_id': 5069224643, 'is_admin': True}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:44:01,813 - admin_state_book_handlers - DEBUG - is_admin_filter: Проверка пользователя 5069224643. Результат: True - Данные: {'user_id': 5069224643, 'is_admin': True}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:27,607 - admin_state_book_handlers - DEBUG - is_admin_filter: Проверка пользователя 5069224643. Результат: True - Данные: {'user_id': 5069224643, 'is_admin': True}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:27,610 - admin_state_book_handlers - DEBUG - is_admin_filter: Проверка пользователя 5069224643. Результат: True - Данные: {'user_id': 5069224643, 'is_admin': True}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:27,612 - admin_state_book_handlers - DEBUG - is_admin_filter: Проверка пользователя 5069224643. Результат: True - Данные: {'user_id': 5069224643, 'is_admin': True}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:27,616 - admin_state_book_handlers - DEBUG - is_admin_filter: Проверка пользователя 5069224643. Результат: True - Данные: {'user_id': 5069224643, 'is_admin': True}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:27,618 - admin_state_book_handlers - DEBUG - is_admin_filter: Проверка пользователя 5069224643. Результат: True - Данные: {'user_id': 5069224643, 'is_admin': True}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:37,243 - admin_state_book_handlers - DEBUG - is_admin_filter: Проверка пользователя 5069224643. Результат: True - Данные: {'user_id': 5069224643, 'is_admin': True}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:39,678 - admin_state_book_handlers - DEBUG - is_admin_filter: Проверка пользователя 5069224643. Результат: True - Данные: {'user_id': 5069224643, 'is_admin': True}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:46,880 - admin_state_book_handlers - DEBUG - is_admin_filter: Проверка пользователя 5069224643. Результат: True - Данные: {'user_id': 5069224643, 'is_admin': True}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:49,275 - admin_state_book_handlers - DEBUG - is_admin_filter: Проверка пользователя 5069224643. Результат: True - Данные: {'user_id': 5069224643, 'is_admin': True}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:51,664 - admin_state_book_handlers - DEBUG - is_admin_filter: Проверка пользователя 5069224643. Результат: True - Данные: {'user_id': 5069224643, 'is_admin': True}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:52,932 - admin_state_book_handlers - DEBUG - is_admin_filter: Проверка пользователя 5069224643. Результат: True - Данные: {'user_id': 5069224643, 'is_admin': True}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:54,468 - admin_state_book_handlers - DEBUG - is_admin_filter: Проверка пользователя 5069224643. Результат: True - Данные: {'user_id': 5069224643, 'is_admin': True}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 18:00:14,673 - admin_state_book_handlers - DEBUG - is_admin_filter: Проверка пользователя 5069224643. Результат: True - Данные: {'user_id': 5069224643, 'is_admin': True}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 18:00:18,446 - admin_state_book_handlers - DEBUG - is_admin_filter: Проверка пользователя 5069224643. Результат: True - Данные: {'user_id': 5069224643, 'is_admin': True}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None

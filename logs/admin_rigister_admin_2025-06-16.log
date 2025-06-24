@@ -1,0 +1,36 @@
+2025-06-16 18:00:14,669 - admin_rigister_admin - DEBUG - is_admin_filter: Проверка пользователя 5069224643. Результат: True - Данные: {'user_id': 5069224643, 'is_admin': True}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 18:00:18,441 - admin_rigister_admin - DEBUG - is_admin_filter: Проверка пользователя 5069224643. Результат: True - Данные: {'user_id': 5069224643, 'is_admin': True}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 18:00:20,971 - admin_rigister_admin - DEBUG - is_admin_filter: Проверка пользователя 5069224643. Результат: True - Данные: {'user_id': 5069224643, 'is_admin': True}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 18:00:20,974 - admin_rigister_admin - DEBUG - Вход в show_list_admins - Данные: {'user_id': 5069224643}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 18:00:20,975 - admin_rigister_admin - DEBUG - Начало функции list_admins
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 18:00:20,977 - admin_rigister_admin - INFO - Найдено 1 администраторов. Отправка списка.
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 18:00:21,189 - admin_rigister_admin - DEBUG - Отправка информации об администраторе: 5069224643 - Данные: {'admin_id': 5069224643, 'user_name': 'Dmitriy_hrist_muz'}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 18:00:21,399 - admin_rigister_admin - DEBUG - Список администраторов отправлен. Завершение list_admins
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 18:00:21,534 - admin_rigister_admin - DEBUG - Выход из show_list_admins - Данные: {'user_id': 5069224643}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None

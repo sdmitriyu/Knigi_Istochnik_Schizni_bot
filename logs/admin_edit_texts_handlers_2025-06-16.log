@@ -1,0 +1,24 @@
+2025-06-16 18:00:07,886 - admin_edit_texts_handlers - DEBUG - Вход в show_order_pretext_for_edit - Данные: {'user_id': 5069224643}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 18:00:07,888 - admin_edit_texts_handlers - DEBUG - Получен текстовый запрос: 📝 Изменить текст заказа
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 18:00:07,947 - admin_edit_texts_handlers - DEBUG - Отправка сообщения с текущим текстом заказа и кнопкой редактирования
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 18:00:10,359 - admin_edit_texts_handlers - DEBUG - Вход в show_gallery_text_for_edit - Данные: {'user_id': 5069224643}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 18:00:10,361 - admin_edit_texts_handlers - DEBUG - Получен текстовый запрос: 🖼 Изменить текст галереи
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 18:00:10,380 - admin_edit_texts_handlers - DEBUG - Отправка сообщения с текущим текстом галереи и кнопкой редактирования
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None

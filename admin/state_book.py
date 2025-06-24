@@ -43,6 +43,8 @@ class AdminEditState(StatesGroup):
     edit_field = State()
     new_user_name = State()
     new_phone = State()
+    new_role = State()
+    new_display_name = State()
  
 
     

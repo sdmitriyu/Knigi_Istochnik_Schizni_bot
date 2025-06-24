@@ -1,0 +1,1851 @@
+2025-06-16 15:47:28,192 - main - DEBUG - Подключение роутеров
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 15:47:28,194 - main - DEBUG - Содержимое клавиатуры команд при запуске - Данные: {'keyboard': [[KeyboardButton(text='📚 Управление книгами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📦 Управление заказами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👥 Управление администраторами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📝 Управление текстами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👋 Приветствие', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)]]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 15:47:28,225 - main - INFO - Запуск приложения
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 15:47:28,228 - main - INFO - Инициализация базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 15:47:28,278 - main - DEBUG - Установка команд бота - Данные: {'commands': [BotCommand(command='start', description='Запустить бота'), BotCommand(command='help', description='Получить помощь')]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 15:47:28,629 - main - INFO - Запуск бота
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 15:50:18,528 - main - DEBUG - Подключение роутеров
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 15:50:18,529 - main - DEBUG - Содержимое клавиатуры команд при запуске - Данные: {'keyboard': [[KeyboardButton(text='📚 Управление книгами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📦 Управление заказами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👥 Управление администраторами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📝 Управление текстами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👋 Приветствие', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)]]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 15:50:18,536 - main - INFO - Запуск приложения
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 15:50:18,539 - main - INFO - Инициализация базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 15:50:18,692 - main - DEBUG - Установка команд бота - Данные: {'commands': [BotCommand(command='start', description='Запустить бота'), BotCommand(command='help', description='Получить помощь')]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 15:50:19,085 - main - INFO - Запуск бота
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 15:51:44,837 - main - DEBUG - Подключение роутеров
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 15:51:44,838 - main - DEBUG - Содержимое клавиатуры команд при запуске - Данные: {'keyboard': [[KeyboardButton(text='📚 Управление книгами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📦 Управление заказами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👥 Управление администраторами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📝 Управление текстами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👋 Приветствие', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)]]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 15:51:44,848 - main - INFO - Запуск приложения
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 15:51:44,850 - main - INFO - Инициализация базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 15:51:44,930 - main - DEBUG - Установка команд бота - Данные: {'commands': [BotCommand(command='start', description='Запустить бота'), BotCommand(command='help', description='Получить помощь')]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 15:51:45,422 - main - INFO - Запуск бота
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 15:55:21,690 - main - DEBUG - Подключение роутеров
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 15:55:21,691 - main - DEBUG - Содержимое клавиатуры команд при запуске - Данные: {'keyboard': [[KeyboardButton(text='📚 Управление книгами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📦 Управление заказами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👥 Управление администраторами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📝 Управление текстами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👋 Приветствие', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)]]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 15:55:21,699 - main - INFO - Запуск приложения
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 15:55:21,701 - main - INFO - Инициализация базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 15:55:21,739 - main - DEBUG - Установка команд бота - Данные: {'commands': [BotCommand(command='start', description='Запустить бота'), BotCommand(command='help', description='Получить помощь')]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 15:55:22,225 - main - INFO - Запуск бота
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 15:59:28,929 - main - DEBUG - Подключение роутеров
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 15:59:28,930 - main - DEBUG - Содержимое клавиатуры команд при запуске - Данные: {'keyboard': [[KeyboardButton(text='📚 Управление книгами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📦 Управление заказами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👥 Управление администраторами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📝 Управление текстами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👋 Приветствие', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)]]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 15:59:28,938 - main - INFO - Запуск приложения
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 15:59:28,940 - main - INFO - Инициализация базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 15:59:28,981 - main - DEBUG - Установка команд бота - Данные: {'commands': [BotCommand(command='start', description='Запустить бота'), BotCommand(command='help', description='Получить помощь')]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 15:59:29,498 - main - INFO - Запуск бота
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:14:03,060 - main - DEBUG - Подключение роутеров
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:14:03,062 - main - DEBUG - Содержимое клавиатуры команд при запуске - Данные: {'keyboard': [[KeyboardButton(text='📚 Управление книгами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📦 Управление заказами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👥 Управление администраторами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📝 Управление текстами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👋 Приветствие', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)]]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 16:14:03,071 - main - INFO - Запуск приложения
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:14:03,074 - main - INFO - Инициализация базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:14:03,075 - main - INFO - Начало инициализации базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:14:03,076 - main - DEBUG - Создание таблиц
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:14:03,092 - main - DEBUG - Создание таблицы order_statuses
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:14:03,094 - main - DEBUG - Проверка и добавление колонок в таблицу admin
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:14:03,097 - main - DEBUG - Существующие колонки в таблице admin: ['id', 'user_id', 'user_name', 'phone', 'role', 'display_name']
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:14:03,098 - main - DEBUG - Инициализация статусов заказа
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:14:03,101 - main - DEBUG - Статус заказа создан/обновлен: new
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:14:03,102 - main - DEBUG - Статус заказа создан/обновлен: processing
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:14:03,104 - main - DEBUG - Статус заказа создан/обновлен: supplier_notified
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:14:03,107 - main - DEBUG - Статус заказа создан/обновлен: book_taken
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:14:03,109 - main - DEBUG - Статус заказа создан/обновлен: in_transit
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:14:03,112 - main - DEBUG - Статус заказа создан/обновлен: delivered
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:14:03,114 - main - DEBUG - Статус заказа создан/обновлен: cancelled
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:14:03,115 - main - DEBUG - Создание администратора по умолчанию
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:14:03,118 - main - DEBUG - Инициализация текстовых полей
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:14:03,120 - main - DEBUG - Приветствие создано/обновлено
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:14:03,123 - main - DEBUG - Текст галереи создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:14:03,137 - main - DEBUG - Текст оформления заказа создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:14:03,142 - main - INFO - Текстовые поля успешно инициализированы
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:14:03,174 - main - DEBUG - Инициализация тестовых книг
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:14:03,204 - main - DEBUG - Текущее количество книг в базе: 1
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:14:03,205 - main - INFO - База данных успешно инициализирована
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:14:03,206 - main - DEBUG - Установка команд бота - Данные: {'commands': [BotCommand(command='start', description='Запустить бота'), BotCommand(command='help', description='Получить помощь')]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 16:14:05,285 - main - INFO - Запуск бота
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:21:20,807 - main - DEBUG - Подключение роутеров
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:21:20,808 - main - DEBUG - Содержимое клавиатуры команд при запуске - Данные: {'keyboard': [[KeyboardButton(text='📚 Управление книгами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📦 Управление заказами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👥 Управление администраторами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📝 Управление текстами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👋 Приветствие', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)]]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 16:21:20,815 - main - INFO - Запуск приложения
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:21:20,818 - main - INFO - Инициализация базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:21:20,819 - main - INFO - Начало инициализации базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:21:20,820 - main - DEBUG - Создание таблиц
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:21:20,833 - main - DEBUG - Создание таблицы order_statuses
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:21:20,835 - main - DEBUG - Проверка и добавление колонок в таблицу admin
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:21:20,836 - main - DEBUG - Существующие колонки в таблице admin: ['id', 'user_id', 'user_name', 'phone', 'role', 'display_name']
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:21:20,837 - main - DEBUG - Инициализация статусов заказа
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:21:20,840 - main - DEBUG - Статус заказа создан/обновлен: new
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:21:20,842 - main - DEBUG - Статус заказа создан/обновлен: processing
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:21:20,845 - main - DEBUG - Статус заказа создан/обновлен: supplier_notified
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:21:20,847 - main - DEBUG - Статус заказа создан/обновлен: book_taken
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:21:20,850 - main - DEBUG - Статус заказа создан/обновлен: in_transit
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:21:20,852 - main - DEBUG - Статус заказа создан/обновлен: delivered
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:21:20,854 - main - DEBUG - Статус заказа создан/обновлен: cancelled
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:21:20,855 - main - DEBUG - Создание администратора по умолчанию
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:21:20,858 - main - DEBUG - Инициализация текстовых полей
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:21:20,860 - main - DEBUG - Приветствие создано/обновлено
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:21:20,862 - main - DEBUG - Текст галереи создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:21:20,864 - main - DEBUG - Текст оформления заказа создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:21:20,865 - main - INFO - Текстовые поля успешно инициализированы
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:21:20,866 - main - DEBUG - Инициализация тестовых книг
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:21:20,869 - main - DEBUG - Текущее количество книг в базе: 1
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:21:20,870 - main - INFO - База данных успешно инициализирована
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:21:20,871 - main - DEBUG - Установка команд бота - Данные: {'commands': [BotCommand(command='start', description='Запустить бота'), BotCommand(command='help', description='Получить помощь')]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 16:21:23,329 - main - INFO - Запуск бота
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:26:49,080 - main - DEBUG - Подключение роутеров
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:26:49,081 - main - DEBUG - Содержимое клавиатуры команд при запуске - Данные: {'keyboard': [[KeyboardButton(text='📚 Управление книгами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📦 Управление заказами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👥 Управление администраторами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📝 Управление текстами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👋 Приветствие', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)]]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 16:26:49,089 - main - INFO - Запуск приложения
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:26:49,091 - main - INFO - Инициализация базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:26:49,092 - main - INFO - Начало инициализации базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:26:49,093 - main - DEBUG - Создание таблиц
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:26:49,106 - main - DEBUG - Создание таблицы order_statuses
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:26:49,108 - main - DEBUG - Проверка и добавление колонок в таблицу admin
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:26:49,110 - main - DEBUG - Существующие колонки в таблице admin: ['id', 'user_id', 'user_name', 'phone', 'role', 'display_name']
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:26:49,111 - main - DEBUG - Инициализация статусов заказа
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:26:49,115 - main - DEBUG - Статус заказа создан/обновлен: new
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:26:49,117 - main - DEBUG - Статус заказа создан/обновлен: processing
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:26:49,120 - main - DEBUG - Статус заказа создан/обновлен: supplier_notified
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:26:49,122 - main - DEBUG - Статус заказа создан/обновлен: book_taken
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:26:49,124 - main - DEBUG - Статус заказа создан/обновлен: in_transit
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:26:49,126 - main - DEBUG - Статус заказа создан/обновлен: delivered
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:26:49,129 - main - DEBUG - Статус заказа создан/обновлен: cancelled
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:26:49,131 - main - DEBUG - Создание администратора по умолчанию
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:26:49,135 - main - DEBUG - Инициализация текстовых полей
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:26:49,145 - main - DEBUG - Приветствие создано/обновлено
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:26:49,181 - main - DEBUG - Текст галереи создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:26:49,209 - main - DEBUG - Текст оформления заказа создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:26:49,212 - main - INFO - Текстовые поля успешно инициализированы
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:26:49,216 - main - DEBUG - Инициализация тестовых книг
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:26:49,222 - main - DEBUG - Текущее количество книг в базе: 1
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:26:49,223 - main - INFO - База данных успешно инициализирована
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:26:49,224 - main - DEBUG - Установка команд бота - Данные: {'commands': [BotCommand(command='start', description='Запустить бота'), BotCommand(command='help', description='Получить помощь')]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 16:26:51,356 - main - INFO - Запуск бота
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:30:54,033 - main - DEBUG - Подключение роутеров
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:30:54,034 - main - DEBUG - Содержимое клавиатуры команд при запуске - Данные: {'keyboard': [[KeyboardButton(text='📚 Управление книгами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📦 Управление заказами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👥 Управление администраторами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📝 Управление текстами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👋 Приветствие', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)]]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 16:30:54,043 - main - INFO - Запуск приложения
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:30:54,045 - main - INFO - Инициализация базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:30:54,046 - main - INFO - Начало инициализации базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:30:54,047 - main - DEBUG - Создание таблиц
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:30:54,064 - main - DEBUG - Создание таблицы order_statuses
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:30:54,066 - main - DEBUG - Проверка и добавление колонок в таблицу admin
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:30:54,068 - main - DEBUG - Существующие колонки в таблице admin: ['id', 'user_id', 'user_name', 'phone', 'role', 'display_name']
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:30:54,069 - main - DEBUG - Инициализация статусов заказа
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:30:54,071 - main - DEBUG - Статус заказа создан/обновлен: new
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:30:54,074 - main - DEBUG - Статус заказа создан/обновлен: processing
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:30:54,076 - main - DEBUG - Статус заказа создан/обновлен: supplier_notified
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:30:54,078 - main - DEBUG - Статус заказа создан/обновлен: book_taken
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:30:54,081 - main - DEBUG - Статус заказа создан/обновлен: in_transit
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:30:54,083 - main - DEBUG - Статус заказа создан/обновлен: delivered
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:30:54,085 - main - DEBUG - Статус заказа создан/обновлен: cancelled
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:30:54,086 - main - DEBUG - Создание администратора по умолчанию
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:30:54,088 - main - DEBUG - Инициализация текстовых полей
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:30:54,090 - main - DEBUG - Приветствие создано/обновлено
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:30:54,092 - main - DEBUG - Текст галереи создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:30:54,094 - main - DEBUG - Текст оформления заказа создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:30:54,096 - main - INFO - Текстовые поля успешно инициализированы
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:30:54,097 - main - DEBUG - Инициализация тестовых книг
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:30:54,099 - main - DEBUG - Текущее количество книг в базе: 1
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:30:54,100 - main - INFO - База данных успешно инициализирована
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:30:54,101 - main - DEBUG - Установка команд бота - Данные: {'commands': [BotCommand(command='start', description='Запустить бота'), BotCommand(command='help', description='Получить помощь')]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 16:30:57,089 - main - INFO - Запуск бота
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:34:03,121 - main - DEBUG - Подключение роутеров
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:34:03,123 - main - DEBUG - Содержимое клавиатуры команд при запуске - Данные: {'keyboard': [[KeyboardButton(text='📚 Управление книгами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📦 Управление заказами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👥 Управление администраторами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📝 Управление текстами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👋 Приветствие', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)]]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 16:34:03,134 - main - INFO - Запуск приложения
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:34:03,137 - main - INFO - Инициализация базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:34:03,138 - main - INFO - Начало инициализации базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:34:03,139 - main - DEBUG - Создание таблиц
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:34:03,152 - main - DEBUG - Создание таблицы order_statuses
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:34:03,154 - main - DEBUG - Проверка и добавление колонок в таблицу admin
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:34:03,156 - main - DEBUG - Существующие колонки в таблице admin: ['id', 'user_id', 'user_name', 'phone', 'role', 'display_name']
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:34:03,157 - main - DEBUG - Инициализация статусов заказа
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:34:03,160 - main - DEBUG - Статус заказа создан/обновлен: new
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:34:03,163 - main - DEBUG - Статус заказа создан/обновлен: processing
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:34:03,165 - main - DEBUG - Статус заказа создан/обновлен: supplier_notified
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:34:03,168 - main - DEBUG - Статус заказа создан/обновлен: book_taken
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:34:03,171 - main - DEBUG - Статус заказа создан/обновлен: in_transit
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:34:03,173 - main - DEBUG - Статус заказа создан/обновлен: delivered
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:34:03,176 - main - DEBUG - Статус заказа создан/обновлен: cancelled
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:34:03,178 - main - DEBUG - Создание администратора по умолчанию
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:34:03,181 - main - DEBUG - Инициализация текстовых полей
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:34:03,183 - main - DEBUG - Приветствие создано/обновлено
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:34:03,186 - main - DEBUG - Текст галереи создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:34:03,189 - main - DEBUG - Текст оформления заказа создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:34:03,190 - main - INFO - Текстовые поля успешно инициализированы
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:34:03,191 - main - DEBUG - Инициализация тестовых книг
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:34:03,194 - main - DEBUG - Текущее количество книг в базе: 1
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:34:03,195 - main - INFO - База данных успешно инициализирована
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:34:03,196 - main - DEBUG - Установка команд бота - Данные: {'commands': [BotCommand(command='start', description='Запустить бота'), BotCommand(command='help', description='Получить помощь')]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 16:34:04,884 - main - INFO - Запуск бота
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:54:42,742 - main - DEBUG - Закрытие соединения с базой данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:54:49,333 - main - DEBUG - Подключение роутеров
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:54:49,335 - main - DEBUG - Содержимое клавиатуры команд при запуске - Данные: {'keyboard': [[KeyboardButton(text='📚 Управление книгами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📦 Управление заказами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👥 Управление администраторами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📝 Управление текстами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👋 Приветствие', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)]]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 16:54:49,346 - main - INFO - Запуск приложения
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:54:49,348 - main - INFO - Инициализация базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:54:49,349 - main - INFO - Начало инициализации базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:54:49,351 - main - DEBUG - Создание таблиц
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:54:49,364 - main - DEBUG - Создание таблицы order_statuses
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:54:49,366 - main - DEBUG - Проверка и добавление колонок в таблицу admin
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:54:49,367 - main - DEBUG - Существующие колонки в таблице admin: ['id', 'user_id', 'user_name', 'phone', 'role', 'display_name']
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:54:49,368 - main - DEBUG - Инициализация статусов заказа
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:54:49,371 - main - DEBUG - Статус заказа создан/обновлен: new
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:54:49,373 - main - DEBUG - Статус заказа создан/обновлен: processing
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:54:49,375 - main - DEBUG - Статус заказа создан/обновлен: supplier_notified
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:54:49,378 - main - DEBUG - Статус заказа создан/обновлен: book_taken
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:54:49,380 - main - DEBUG - Статус заказа создан/обновлен: in_transit
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:54:49,381 - main - DEBUG - Статус заказа создан/обновлен: delivered
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:54:49,384 - main - DEBUG - Статус заказа создан/обновлен: cancelled
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:54:49,384 - main - DEBUG - Создание администратора по умолчанию
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:54:49,386 - main - DEBUG - Инициализация текстовых полей
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:54:49,388 - main - DEBUG - Приветствие создано/обновлено
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:54:49,390 - main - DEBUG - Текст галереи создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:54:49,392 - main - DEBUG - Текст оформления заказа создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:54:49,393 - main - INFO - Текстовые поля успешно инициализированы
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:54:49,394 - main - DEBUG - Инициализация тестовых книг
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:54:49,396 - main - DEBUG - Текущее количество книг в базе: 1
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:54:49,397 - main - INFO - База данных успешно инициализирована
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:54:49,398 - main - DEBUG - Установка команд бота - Данные: {'commands': [BotCommand(command='start', description='Запустить бота'), BotCommand(command='help', description='Получить помощь')]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 16:54:49,882 - main - INFO - Запуск бота
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:57:59,262 - main - DEBUG - Закрытие соединения с базой данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:58:39,993 - main - DEBUG - Подключение роутеров
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:58:39,996 - main - DEBUG - Содержимое клавиатуры команд при запуске - Данные: {'keyboard': [[KeyboardButton(text='📚 Управление книгами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📦 Управление заказами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👥 Управление администраторами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📝 Управление текстами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👋 Приветствие', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)]]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 16:58:40,004 - main - INFO - Запуск приложения
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:58:40,007 - main - INFO - Инициализация базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:58:40,009 - main - INFO - Начало инициализации базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:58:40,009 - main - DEBUG - Создание таблиц
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:58:40,023 - main - DEBUG - Создание таблицы order_statuses
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:58:40,024 - main - DEBUG - Проверка и добавление колонок в таблицу admin
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:58:40,026 - main - DEBUG - Существующие колонки в таблице admin: ['id', 'user_id', 'user_name', 'phone', 'role', 'display_name']
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:58:40,027 - main - DEBUG - Инициализация статусов заказа
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:58:40,030 - main - DEBUG - Статус заказа создан/обновлен: new
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:58:40,032 - main - DEBUG - Статус заказа создан/обновлен: processing
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:58:40,033 - main - DEBUG - Статус заказа создан/обновлен: supplier_notified
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:58:40,035 - main - DEBUG - Статус заказа создан/обновлен: book_taken
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:58:40,037 - main - DEBUG - Статус заказа создан/обновлен: in_transit
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:58:40,039 - main - DEBUG - Статус заказа создан/обновлен: delivered
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:58:40,041 - main - DEBUG - Статус заказа создан/обновлен: cancelled
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:58:40,042 - main - DEBUG - Создание администратора по умолчанию
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:58:40,045 - main - DEBUG - Инициализация текстовых полей
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:58:40,047 - main - DEBUG - Приветствие создано/обновлено
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:58:40,048 - main - DEBUG - Текст галереи создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:58:40,051 - main - DEBUG - Текст оформления заказа создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:58:40,052 - main - INFO - Текстовые поля успешно инициализированы
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:58:40,053 - main - DEBUG - Инициализация тестовых книг
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:58:40,055 - main - DEBUG - Текущее количество книг в базе: 1
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 16:58:40,055 - main - INFO - База данных успешно инициализирована
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 16:58:40,056 - main - DEBUG - Установка команд бота - Данные: {'commands': [BotCommand(command='start', description='Запустить бота'), BotCommand(command='help', description='Получить помощь')]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 16:58:40,522 - main - INFO - Запуск бота
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:03:29,327 - main - DEBUG - Закрытие соединения с базой данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:13:53,050 - main - DEBUG - Подключение роутеров
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:13:53,051 - main - DEBUG - Содержимое клавиатуры команд при запуске - Данные: {'keyboard': [[KeyboardButton(text='📚 Управление книгами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📦 Управление заказами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👥 Управление администраторами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📝 Управление текстами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👋 Приветствие', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)]]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:13:53,060 - main - INFO - Запуск приложения
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:13:53,062 - main - INFO - Инициализация базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:13:53,064 - main - INFO - Начало инициализации базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:13:53,064 - main - DEBUG - Создание таблиц
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:13:53,078 - main - DEBUG - Создание таблицы order_statuses
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:13:53,080 - main - DEBUG - Проверка и добавление колонок в таблицу admin
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:13:53,082 - main - DEBUG - Существующие колонки в таблице admin: ['id', 'user_id', 'user_name', 'phone', 'role', 'display_name']
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:13:53,083 - main - DEBUG - Инициализация статусов заказа
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:13:53,086 - main - DEBUG - Статус заказа создан/обновлен: new
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:13:53,090 - main - DEBUG - Статус заказа создан/обновлен: processing
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:13:53,093 - main - DEBUG - Статус заказа создан/обновлен: supplier_notified
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:13:53,096 - main - DEBUG - Статус заказа создан/обновлен: book_taken
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:13:53,098 - main - DEBUG - Статус заказа создан/обновлен: in_transit
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:13:53,100 - main - DEBUG - Статус заказа создан/обновлен: delivered
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:13:53,103 - main - DEBUG - Статус заказа создан/обновлен: cancelled
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:13:53,104 - main - DEBUG - Создание администратора по умолчанию
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:13:53,106 - main - DEBUG - Инициализация текстовых полей
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:13:53,108 - main - DEBUG - Приветствие создано/обновлено
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:13:53,110 - main - DEBUG - Текст галереи создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:13:53,112 - main - DEBUG - Текст оформления заказа создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:13:53,113 - main - INFO - Текстовые поля успешно инициализированы
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:13:53,114 - main - DEBUG - Инициализация тестовых книг
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:13:53,117 - main - DEBUG - Текущее количество книг в базе: 1
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:13:53,117 - main - INFO - База данных успешно инициализирована
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:13:53,119 - main - DEBUG - Установка команд бота - Данные: {'commands': [BotCommand(command='start', description='Запустить бота'), BotCommand(command='help', description='Получить помощь')]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:13:53,575 - main - INFO - Запуск бота
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:16:40,089 - main - DEBUG - Закрытие соединения с базой данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:18:57,341 - main - DEBUG - Подключение роутеров
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:18:57,342 - main - DEBUG - Содержимое клавиатуры команд при запуске - Данные: {'keyboard': [[KeyboardButton(text='📚 Управление книгами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📦 Управление заказами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👥 Управление администраторами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📝 Управление текстами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👋 Приветствие', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)]]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:18:57,351 - main - INFO - Запуск приложения
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:18:57,353 - main - INFO - Инициализация базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:18:57,355 - main - INFO - Начало инициализации базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:18:57,355 - main - DEBUG - Создание таблиц
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:18:57,370 - main - DEBUG - Создание таблицы order_statuses
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:18:57,372 - main - DEBUG - Проверка и добавление колонок в таблицу admin
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:18:57,373 - main - DEBUG - Существующие колонки в таблице admin: ['id', 'user_id', 'user_name', 'phone', 'role', 'display_name']
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:18:57,375 - main - DEBUG - Инициализация статусов заказа
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:18:57,378 - main - DEBUG - Статус заказа создан/обновлен: new
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:18:57,381 - main - DEBUG - Статус заказа создан/обновлен: processing
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:18:57,383 - main - DEBUG - Статус заказа создан/обновлен: supplier_notified
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:18:57,385 - main - DEBUG - Статус заказа создан/обновлен: book_taken
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:18:57,387 - main - DEBUG - Статус заказа создан/обновлен: in_transit
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:18:57,390 - main - DEBUG - Статус заказа создан/обновлен: delivered
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:18:57,392 - main - DEBUG - Статус заказа создан/обновлен: cancelled
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:18:57,394 - main - DEBUG - Создание администратора по умолчанию
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:18:57,396 - main - DEBUG - Инициализация текстовых полей
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:18:57,399 - main - DEBUG - Приветствие создано/обновлено
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:18:57,401 - main - DEBUG - Текст галереи создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:18:57,404 - main - DEBUG - Текст оформления заказа создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:18:57,405 - main - INFO - Текстовые поля успешно инициализированы
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:18:57,406 - main - DEBUG - Инициализация тестовых книг
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:18:57,409 - main - DEBUG - Текущее количество книг в базе: 1
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:18:57,410 - main - INFO - База данных успешно инициализирована
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:18:57,411 - main - DEBUG - Установка команд бота - Данные: {'commands': [BotCommand(command='start', description='Запустить бота'), BotCommand(command='help', description='Получить помощь')]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:19:00,884 - main - INFO - Запуск бота
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:31:47,484 - main - DEBUG - Подключение роутеров
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:31:47,484 - main - DEBUG - Содержимое клавиатуры команд при запуске - Данные: {'keyboard': [[KeyboardButton(text='📚 Управление книгами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📦 Управление заказами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👥 Управление администраторами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📝 Управление текстами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👋 Приветствие', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)]]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:31:47,494 - main - INFO - Запуск приложения
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:31:47,497 - main - INFO - Инициализация базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:31:47,498 - main - INFO - Начало инициализации базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:31:47,499 - main - DEBUG - Создание таблиц
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:31:47,515 - main - DEBUG - Создание таблицы order_statuses
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:31:47,517 - main - DEBUG - Проверка и добавление колонок в таблицу admin
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:31:47,518 - main - DEBUG - Существующие колонки в таблице admin: ['id', 'user_id', 'user_name', 'phone', 'role', 'display_name']
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:31:47,520 - main - DEBUG - Инициализация статусов заказа
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:31:47,523 - main - DEBUG - Статус заказа создан/обновлен: new
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:31:47,525 - main - DEBUG - Статус заказа создан/обновлен: processing
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:31:47,527 - main - DEBUG - Статус заказа создан/обновлен: supplier_notified
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:31:47,530 - main - DEBUG - Статус заказа создан/обновлен: book_taken
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:31:47,533 - main - DEBUG - Статус заказа создан/обновлен: in_transit
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:31:47,536 - main - DEBUG - Статус заказа создан/обновлен: delivered
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:31:47,539 - main - DEBUG - Статус заказа создан/обновлен: cancelled
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:31:47,540 - main - DEBUG - Создание администратора по умолчанию
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:31:47,543 - main - DEBUG - Инициализация текстовых полей
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:31:47,545 - main - DEBUG - Приветствие создано/обновлено
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:31:47,547 - main - DEBUG - Текст галереи создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:31:47,549 - main - DEBUG - Текст оформления заказа создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:31:47,550 - main - INFO - Текстовые поля успешно инициализированы
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:31:47,551 - main - DEBUG - Инициализация тестовых книг
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:31:47,553 - main - DEBUG - Текущее количество книг в базе: 1
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:31:47,554 - main - INFO - База данных успешно инициализирована
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:31:47,556 - main - DEBUG - Установка команд бота - Данные: {'commands': [BotCommand(command='start', description='Запустить бота'), BotCommand(command='help', description='Получить помощь')]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:31:48,009 - main - INFO - Запуск бота
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:39:46,484 - main - DEBUG - Подключение роутеров
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:39:46,485 - main - DEBUG - Содержимое клавиатуры команд при запуске - Данные: {'keyboard': [[KeyboardButton(text='📚 Управление книгами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📦 Управление заказами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👥 Управление администраторами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📝 Управление текстами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👋 Приветствие', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)]]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:39:46,497 - main - INFO - Запуск приложения
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:39:46,499 - main - INFO - Инициализация базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:39:46,501 - main - INFO - Начало инициализации базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:39:46,501 - main - DEBUG - Создание таблиц
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:39:46,518 - main - DEBUG - Создание таблицы order_statuses
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:39:46,520 - main - DEBUG - Проверка и добавление колонок в таблицу admin
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:39:46,521 - main - DEBUG - Существующие колонки в таблице admin: ['id', 'user_id', 'user_name', 'phone', 'role', 'display_name']
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:39:46,522 - main - DEBUG - Инициализация статусов заказа
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:39:46,525 - main - DEBUG - Статус заказа создан/обновлен: new
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:39:46,527 - main - DEBUG - Статус заказа создан/обновлен: processing
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:39:46,530 - main - DEBUG - Статус заказа создан/обновлен: supplier_notified
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:39:46,532 - main - DEBUG - Статус заказа создан/обновлен: book_taken
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:39:46,535 - main - DEBUG - Статус заказа создан/обновлен: in_transit
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:39:46,537 - main - DEBUG - Статус заказа создан/обновлен: delivered
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:39:46,540 - main - DEBUG - Статус заказа создан/обновлен: cancelled
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:39:46,541 - main - DEBUG - Создание администратора по умолчанию
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:39:46,543 - main - DEBUG - Инициализация текстовых полей
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:39:46,546 - main - DEBUG - Приветствие создано/обновлено
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:39:46,548 - main - DEBUG - Текст галереи создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:39:46,551 - main - DEBUG - Текст оформления заказа создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:39:46,552 - main - INFO - Текстовые поля успешно инициализированы
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:39:46,553 - main - DEBUG - Инициализация тестовых книг
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:39:46,556 - main - DEBUG - Текущее количество книг в базе: 1
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:39:46,556 - main - INFO - База данных успешно инициализирована
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:39:46,557 - main - DEBUG - Установка команд бота - Данные: {'commands': [BotCommand(command='start', description='Запустить бота'), BotCommand(command='help', description='Получить помощь')]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:39:47,102 - main - INFO - Запуск бота
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:43:42,498 - main - DEBUG - Подключение роутеров
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:43:42,499 - main - DEBUG - Содержимое клавиатуры команд при запуске - Данные: {'keyboard': [[KeyboardButton(text='📚 Управление книгами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📦 Управление заказами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👥 Управление администраторами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📝 Управление текстами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👋 Приветствие', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)]]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:43:42,508 - main - INFO - Запуск приложения
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:43:42,511 - main - INFO - Инициализация базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:43:42,513 - main - INFO - Начало инициализации базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:43:42,514 - main - DEBUG - Создание таблиц
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:43:42,529 - main - DEBUG - Создание таблицы order_statuses
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:43:42,531 - main - DEBUG - Проверка и добавление колонок в таблицу admin
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:43:42,532 - main - DEBUG - Существующие колонки в таблице admin: ['id', 'user_id', 'user_name', 'phone', 'role', 'display_name']
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:43:42,534 - main - DEBUG - Инициализация статусов заказа
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:43:42,537 - main - DEBUG - Статус заказа создан/обновлен: new
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:43:42,540 - main - DEBUG - Статус заказа создан/обновлен: processing
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:43:42,544 - main - DEBUG - Статус заказа создан/обновлен: supplier_notified
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:43:42,547 - main - DEBUG - Статус заказа создан/обновлен: book_taken
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:43:42,550 - main - DEBUG - Статус заказа создан/обновлен: in_transit
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:43:42,553 - main - DEBUG - Статус заказа создан/обновлен: delivered
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:43:42,556 - main - DEBUG - Статус заказа создан/обновлен: cancelled
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:43:42,557 - main - DEBUG - Создание администратора по умолчанию
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:43:42,560 - main - DEBUG - Инициализация текстовых полей
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:43:42,562 - main - DEBUG - Приветствие создано/обновлено
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:43:42,565 - main - DEBUG - Текст галереи создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:43:42,566 - main - DEBUG - Текст оформления заказа создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:43:42,567 - main - INFO - Текстовые поля успешно инициализированы
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:43:42,568 - main - DEBUG - Инициализация тестовых книг
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:43:42,570 - main - DEBUG - Текущее количество книг в базе: 1
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:43:42,571 - main - INFO - База данных успешно инициализирована
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:43:42,572 - main - DEBUG - Установка команд бота - Данные: {'commands': [BotCommand(command='start', description='Запустить бота'), BotCommand(command='help', description='Получить помощь')]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:43:43,101 - main - INFO - Запуск бота
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:47:35,563 - main - DEBUG - Подключение роутеров
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:47:35,564 - main - DEBUG - Содержимое клавиатуры команд при запуске - Данные: {'keyboard': [[KeyboardButton(text='📚 Управление книгами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📦 Управление заказами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👥 Управление администраторами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📝 Управление текстами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👋 Приветствие', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)]]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:47:35,573 - main - INFO - Запуск приложения
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:47:35,575 - main - INFO - Инициализация базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:47:35,577 - main - INFO - Начало инициализации базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:47:35,578 - main - DEBUG - Создание таблиц
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:47:35,591 - main - DEBUG - Создание таблицы order_statuses
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:47:35,593 - main - DEBUG - Проверка и добавление колонок в таблицу admin
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:47:35,594 - main - DEBUG - Существующие колонки в таблице admin: ['id', 'user_id', 'user_name', 'phone', 'role', 'display_name']
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:47:35,596 - main - DEBUG - Инициализация статусов заказа
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:47:35,599 - main - DEBUG - Статус заказа создан/обновлен: new
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:47:35,601 - main - DEBUG - Статус заказа создан/обновлен: processing
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:47:35,603 - main - DEBUG - Статус заказа создан/обновлен: supplier_notified
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:47:35,606 - main - DEBUG - Статус заказа создан/обновлен: book_taken
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:47:35,609 - main - DEBUG - Статус заказа создан/обновлен: in_transit
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:47:35,612 - main - DEBUG - Статус заказа создан/обновлен: delivered
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:47:35,614 - main - DEBUG - Статус заказа создан/обновлен: cancelled
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:47:35,615 - main - DEBUG - Создание администратора по умолчанию
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:47:35,618 - main - DEBUG - Инициализация текстовых полей
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:47:35,621 - main - DEBUG - Приветствие создано/обновлено
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:47:35,624 - main - DEBUG - Текст галереи создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:47:35,626 - main - DEBUG - Текст оформления заказа создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:47:35,628 - main - INFO - Текстовые поля успешно инициализированы
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:47:35,629 - main - DEBUG - Инициализация тестовых книг
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:47:35,635 - main - DEBUG - Текущее количество книг в базе: 1
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:47:35,647 - main - INFO - База данных успешно инициализирована
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:47:35,665 - main - ERROR - Ошибка при запуске бота - Ошибка: name 'BotCommand' is not defined
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:55
+Function: log_error
+Traceback: None
+2025-06-16 17:47:35,671 - main - ERROR - Traceback:
+Traceback (most recent call last):
+  File "C:\Cursor\Knigi_Istochnik_Schizni_bot\main.py", line 243, in main
+    BotCommand(command="start", description="Запустить бота"),
+    ^^^^^^^^^^
+NameError: name 'BotCommand' is not defined
+
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:56
+Function: log_error
+Traceback: None
+2025-06-16 17:47:35,677 - main - DEBUG - Закрытие соединения с базой данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:47:35,678 - main - ERROR - Критическая ошибка при запуске приложения - Ошибка: name 'BotCommand' is not defined
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:55
+Function: log_error
+Traceback: None
+2025-06-16 17:47:35,711 - main - ERROR - Traceback:
+Traceback (most recent call last):
+  File "C:\Cursor\Knigi_Istochnik_Schizni_bot\main.py", line 263, in <module>
+    asyncio.run(main())
+  File "C:\Users\Dmitriy\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Dmitriy\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dmitriy\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 650, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Cursor\Knigi_Istochnik_Schizni_bot\main.py", line 243, in main
+    BotCommand(command="start", description="Запустить бота"),
+    ^^^^^^^^^^
+NameError: name 'BotCommand' is not defined
+
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:56
+Function: log_error
+Traceback: None
+2025-06-16 17:54:26,562 - main - DEBUG - Подключение роутеров
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:26,562 - main - DEBUG - Содержимое клавиатуры команд при запуске - Данные: {'keyboard': [[KeyboardButton(text='📚 Управление книгами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📦 Управление заказами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👥 Управление администраторами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📝 Управление текстами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👋 Приветствие', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)]]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:26,572 - main - INFO - Запуск приложения
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:54:26,574 - main - INFO - Инициализация базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:54:26,575 - main - INFO - Начало инициализации базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:54:26,576 - main - DEBUG - Создание таблиц
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:26,590 - main - DEBUG - Создание таблицы order_statuses
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:26,592 - main - DEBUG - Проверка и добавление колонок в таблицу admin
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:26,593 - main - DEBUG - Существующие колонки в таблице admin: ['id', 'user_id', 'user_name', 'phone', 'role', 'display_name']
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:26,595 - main - DEBUG - Инициализация статусов заказа
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:26,597 - main - DEBUG - Статус заказа создан/обновлен: new
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:26,600 - main - DEBUG - Статус заказа создан/обновлен: processing
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:26,602 - main - DEBUG - Статус заказа создан/обновлен: supplier_notified
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:26,604 - main - DEBUG - Статус заказа создан/обновлен: book_taken
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:26,607 - main - DEBUG - Статус заказа создан/обновлен: in_transit
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:26,608 - main - DEBUG - Статус заказа создан/обновлен: delivered
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:26,611 - main - DEBUG - Статус заказа создан/обновлен: cancelled
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:26,612 - main - DEBUG - Создание администратора по умолчанию
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:26,615 - main - DEBUG - Инициализация текстовых полей
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:26,618 - main - DEBUG - Приветствие создано/обновлено
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:26,621 - main - DEBUG - Текст галереи создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:26,623 - main - DEBUG - Текст оформления заказа создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:26,625 - main - INFO - Текстовые поля успешно инициализированы
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:54:26,626 - main - DEBUG - Инициализация тестовых книг
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:26,628 - main - DEBUG - Текущее количество книг в базе: 1
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:26,629 - main - INFO - База данных успешно инициализирована
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:54:26,631 - main - DEBUG - Установка команд бота - Данные: {'commands': [BotCommand(command='start', description='Запустить бота'), BotCommand(command='help', description='Получить помощь')]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:54:27,166 - main - INFO - Запуск бота
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:59:51,302 - main - DEBUG - Подключение роутеров
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:59:51,303 - main - DEBUG - Содержимое клавиатуры команд при запуске - Данные: {'keyboard': [[KeyboardButton(text='📚 Управление книгами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📦 Управление заказами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👥 Управление администраторами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='📝 Управление текстами', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)], [KeyboardButton(text='👋 Приветствие', request_users=None, request_chat=None, request_contact=None, request_location=None, request_poll=None, web_app=None, request_user=None)]]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:59:51,312 - main - INFO - Запуск приложения
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:59:51,315 - main - INFO - Инициализация базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:59:51,316 - main - INFO - Начало инициализации базы данных
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:59:51,317 - main - DEBUG - Создание таблиц
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:59:51,332 - main - DEBUG - Создание таблицы order_statuses
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:59:51,334 - main - DEBUG - Проверка и добавление колонок в таблицу admin
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:59:51,335 - main - DEBUG - Существующие колонки в таблице admin: ['id', 'user_id', 'user_name', 'phone', 'role', 'display_name']
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:59:51,337 - main - DEBUG - Инициализация статусов заказа
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:59:51,339 - main - DEBUG - Статус заказа создан/обновлен: new
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:59:51,342 - main - DEBUG - Статус заказа создан/обновлен: processing
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:59:51,346 - main - DEBUG - Статус заказа создан/обновлен: supplier_notified
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:59:51,348 - main - DEBUG - Статус заказа создан/обновлен: book_taken
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:59:51,351 - main - DEBUG - Статус заказа создан/обновлен: in_transit
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:59:51,353 - main - DEBUG - Статус заказа создан/обновлен: delivered
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:59:51,355 - main - DEBUG - Статус заказа создан/обновлен: cancelled
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:59:51,356 - main - DEBUG - Создание администратора по умолчанию
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:59:51,359 - main - DEBUG - Инициализация текстовых полей
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:59:51,361 - main - DEBUG - Приветствие создано/обновлено
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:59:51,363 - main - DEBUG - Текст галереи создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:59:51,366 - main - DEBUG - Текст оформления заказа создан/обновлен
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:59:51,367 - main - INFO - Текстовые поля успешно инициализированы
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:59:51,368 - main - DEBUG - Инициализация тестовых книг
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:59:51,371 - main - DEBUG - Текущее количество книг в базе: 1
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:63
+Function: log_debug
+Traceback: None
+2025-06-16 17:59:51,371 - main - INFO - База данных успешно инициализирована
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None
+2025-06-16 17:59:51,373 - main - DEBUG - Установка команд бота - Данные: {'commands': [BotCommand(command='start', description='Запустить бота'), BotCommand(command='help', description='Получить помощь')]}
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:61
+Function: log_debug
+Traceback: None
+2025-06-16 17:59:51,836 - main - INFO - Запуск бота
+File: C:\Cursor\Knigi_Istochnik_Schizni_bot\config\logger_config.py:70
+Function: log_info
+Traceback: None

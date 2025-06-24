@@ -8,34 +8,53 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 from admin.state_book import BookState, OrderAdminState, BookEditState # Добавляем импорт BookEditState
 from typing import cast # Добавляем импорт cast
+from config.logger_config import setup_logger, log_debug, log_info, log_error
 
 admin_router = Router()
 
+logger = setup_logger('admin_state_book_handlers')
+
 async def is_admin_filter(message: Message) -> bool:
     if not message.from_user:
+        log_debug(logger, "is_admin_filter: Отсутствует информация о пользователе.", {})
         return False
-    return Admin.get_or_none(Admin.user_id == message.from_user.id) is not None
+    
+    user_id = message.from_user.id
+    is_admin = Admin.get_or_none(Admin.user_id == user_id) is not None
+    log_debug(logger, f"is_admin_filter: Проверка пользователя {user_id}. Результат: {is_admin}", {"user_id": user_id, "is_admin": is_admin})
+    return is_admin
 
 admin_router.message.filter(is_admin_filter)
 
 @admin_router.message(Command("start"))
 async def start(message: Message):
-    print(f"DEBUG: Admin start handler called. User ID: {message.from_user.id if message.from_user else 'None'}")
-    if not message.from_user:
-        print("DEBUG: No from_user in message")
-        return
-    
-    await message.answer("Очищаю предыдущую клавиатуру...", reply_markup=ReplyKeyboardRemove())
-    await message.answer("👋 Добро пожаловать в административное меню! Выберите действие:", reply_markup=commands)
+    log_debug(logger, "Вход в обработчик start", {"user_id": message.from_user.id if message.from_user else None})
+    try:
+        if not message.from_user:
+            log_error(logger, Exception("Нет from_user"), "start: Нет from_user")
+            return
+        await message.answer("Очищаю предыдущую клавиатуру...", reply_markup=ReplyKeyboardRemove())
+        await message.answer("👋 Добро пожаловать в административное меню! Выберите действие:", reply_markup=commands)
+    except Exception as e:
+        log_error(logger, e, "Ошибка в start")
 
 @admin_router.message(Command("help"))
 async def help_command(message: Message):
-    await message.answer(HELP_TEXT, parse_mode="Markdown", reply_markup=commands)
+    log_debug(logger, "Вход в обработчик help_command", {"user_id": message.from_user.id if message.from_user else None})
+    try:
+        await message.answer(HELP_TEXT, parse_mode="Markdown", reply_markup=commands)
+    except Exception as e:
+        log_error(logger, e, "Ошибка в help_command")
 
 # Новые обработчики для навигации по меню
 @admin_router.message(F.text == "📚 Управление книгами")
 async def manage_books(message: Message):
-    await message.answer("📚 Вы перешли в раздел управления книгами.", reply_markup=books_menu_kb)
+    log_debug(logger, "Вход в обработчик manage_books", {"user_id": message.from_user.id if message.from_user else None})
+    try:
+        await message.answer("📚 Вы перешли в раздел управления книгами.", reply_markup=books_menu_kb)
+    except Exception as e:
+        log_error(logger, e, "Ошибка в manage_books")
+        await message.answer("❌ Произошла ошибка при переходе в раздел управления книгами.", reply_markup=books_menu_kb)
 
 @admin_router.message(F.text == "📦 Управление заказами")
 async def manage_orders(message: Message):
